@@ -4,7 +4,7 @@
 - 🎓 Currently pursuing B.E. in Computer Science at Cambridge Institute of Technology.
 - 🌱 Learning C programming and exploring full-stack development (MERN & Next.js).
 - 🤝 Looking to collaborate on exciting and meaningful projects.
-- 📄 [Check out my Resume][Instagram](https://instagram.com/harshit._.tib)
+- 📄 [Resume](https://drive.google.com/file/d/17wwbxqNgiKG1LKvaJhBpUe8tMA4XvJP7/view?usp=sharing)
 - 📫 Reach out to me on [Instagram](https://instagram.com/harshit._.tib)
 
 <!---
