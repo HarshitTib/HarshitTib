@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Harshit Tibrewal.
-- 👀 I’m interested in coding and learning new stuffs.
-- 🌱 I’m currently learning C programming and doing my B.E from Cambridge Institute of Technology
-- 💞️ I’m looking to collaborate on the various upcoming project
-- 📫 How to reach me,you can dm me in insta instagram.com//harshit._.tib
+### 👋 Hi there, I'm Harshit Tibrewal
+
+- 👨‍💻 I'm passionate about coding and always eager to learn new things.
+- 🎓 Currently pursuing B.E. in Computer Science at Cambridge Institute of Technology.
+- 🌱 Learning C programming and exploring full-stack development (MERN & Next.js).
+- 🤝 Looking to collaborate on exciting and meaningful projects.
+- 📄 [Check out my Resume]([https://your-resume-link.com](https://drive.google.com/file/d/17wwbxqNgiKG1LKvaJhBpUe8tMA4XvJP7/view?usp=sharing))
+- 📫 Reach out to me on [Instagram](https://instagram.com/harshit._.tib)
 
 <!---
 HarshitTib/HarshitTib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
